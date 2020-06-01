@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/joshuatu/joshuatu.github.io
 	branch = master
+[submodule "public_second"]
+	path = public_second
+	url = https://github.com/joshuatu/joshuatu.github.io
+	branch = master
